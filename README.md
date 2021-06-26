@@ -8,4 +8,4 @@ This project involved creating a miniature version of a linter using JavaScript 
 ## Class
 *Codecademy/Pro, Front-End Engineer Path*
 
-JavaScript Syntax: Iterators - how to use JavaScript iterator methods to simplify the process of looping over arrays.
+JavaScript Syntax, Part II: Iterators - how to use JavaScript iterator methods to simplify the process of looping over arrays.
